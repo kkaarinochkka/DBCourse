@@ -25,7 +25,7 @@
 
 
         <Grid Grid.Column="0" Grid.Row="0">
-            <TextBlock Text="Достопримечательности Беларуси" Foreground="#FF404040" FontFamily="Century Gothic" FontSize="18" TextWrapping="Wrap" HorizontalAlignment="Left" Margin="40 20 0 0" />
+            <TextBlock Text=" Беларуси" Foreground="#FF404040" FontFamily="Century Gothic" FontSize="18" TextWrapping="Wrap" HorizontalAlignment="Left" Margin="40 20 0 0" />
         </Grid>
         <Grid Grid.Row="1" Grid.Column="0">
             <StackPanel>
